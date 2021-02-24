@@ -25,7 +25,7 @@
      -->
     <mvc:annotation-driven />
 
-    <!-- 视图解析器 -->
+    <!-- JSP视图解析器 -->
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver"
           id="internalResourceViewResolver">
         <!-- 前缀 -->
